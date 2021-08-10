@@ -1,0 +1,1 @@
+# invoice-ninja-install--script
